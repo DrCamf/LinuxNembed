@@ -4,4 +4,4 @@ første dag linux til server og embedded
 * flashet kort til Rasperry Pi
 * Installeret lamp på samme Raspery Pi
 * sat op ssh på Rasperry Pi
-* har læst og gennemført følgende på netacad 
+* har læst og gennemført de angivende kapitler på netacad og gennemført alle kapitel testene
