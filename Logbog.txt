@@ -1,0 +1,5 @@
+03/08/22
+første dag linux til server og embedded
+
+* flashet kort til Rasperry Pie
+* Installeret lamp på samme Rasspery Pie
