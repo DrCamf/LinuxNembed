@@ -1,3 +1,4 @@
+***************************************************************************************************************************
 03/08/22
 første dag linux til server og embedded
 
@@ -5,3 +6,10 @@ første dag linux til server og embedded
 * Installeret lamp på samme Raspery Pi
 * sat op ssh på Rasperry Pi
 * har læst og gennemført de angivende kapitler på netacad og gennemført alle kapitel testene
+
+***************************************************************************************************************************
+04/08/22
+dag to Linux 
+
+* testet ssh og phpmyadmin
+*

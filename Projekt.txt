@@ -1,0 +1,9 @@
+ServerRoom
+
+Sensor i og for et serverrum
+varme
+fugtighed
+evt lys
+adgang 
+	- kort/andet
+	- billede af hvem der prøver at komme ind
