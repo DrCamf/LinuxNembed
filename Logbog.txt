@@ -12,4 +12,9 @@ første dag linux til server og embedded
 dag to Linux 
 
 * testet ssh og phpmyadmin
-*
+* har arbejdet på projekt som bliver sensorer i serverrum
+* har testet embedcontroller
+* har undersøgt hvordan det skal laves
+* har prøvet at overleve varmen
+
+****************************************************************************************************************************
