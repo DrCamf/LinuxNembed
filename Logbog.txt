@@ -25,3 +25,12 @@ dag hjemme linux
 * Arbejdet på api
 
 ****************************************************************************************************************************
+08/08/22
+Dag fire 
+
+* finde info og bibliotek til DHT22 sensor
+* teste DHT22 sensor og prøvede at mere rå data fra denne
+* Arbejdet og prøvet at få tids bibliotek til at virke
+* og generelt har set på at få client board på net
+
+*****************************************************************************************************************************
