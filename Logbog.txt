@@ -34,3 +34,12 @@ Dag fire
 * og generelt har set på at få client board på net
 
 *****************************************************************************************************************************
+09/08/22
+dag fem
+
+* Arbejdet med at få filer over på rasperry pie både ftp og ssh
+* tilrettet api
+* sat vim op som ide
+* Tilføjet tidligere ideer til embed controller
+
+******************************************************************************************************************************
