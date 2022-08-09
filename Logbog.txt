@@ -38,8 +38,9 @@ Dag fire
 dag fem
 
 * Arbejdet med at få filer over på rasperry pie både ftp og ssh
-* tilrettet api
+* tilrettet api og den kører
 * sat vim op som ide
 * Tilføjet tidligere ideer til embed controller
+* holde lidt pause pga overophedet laptop
 
 ******************************************************************************************************************************
