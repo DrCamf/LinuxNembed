@@ -44,3 +44,9 @@ dag fem
 * holde lidt pause pga overophedet laptop
 
 ******************************************************************************************************************************
+10/08/22
+Dag seks
+
+* Fik sat ekstra køling på Rasperry pi server da den var på vej mod 60 grader, den holder sig nu pænt under 40 grader
+* Havde problem med at api ikke registrede insert i database men fik det løst, det viste sig at være et enkelt tegn, som det tit er.
+* fik tid fra net og forbindelse til net på clienten til at virke
