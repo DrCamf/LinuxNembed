@@ -50,3 +50,13 @@ Dag seks
 * Fik sat ekstra køling på Rasperry pi server da den var på vej mod 60 grader, den holder sig nu pænt under 40 grader
 * Havde problem med at api ikke registrede insert i database men fik det løst, det viste sig at være et enkelt tegn, som det tit er.
 * fik tid fra net og forbindelse til net på clienten til at virke
+
+******************************************************************************************************************************
+11/08/22
+Dag syv
+
+* Arbejdet med tid og formatering af det, har endnu ikke fået det på dansk tid
+* Arbejdet med forskellige løsninger for at få en json fil med resultater
+* Har fundet et http lib med mere men skal se mere på det da det bare ved compilering giver problemer som kunne skulle at en c compiler prøver at compile c++ filer
+
+******************************************************************************************************************************
