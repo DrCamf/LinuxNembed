@@ -60,3 +60,11 @@ Dag syv
 * Har fundet et http lib med mere men skal se mere på det da det bare ved compilering giver problemer som kunne skulle at en c compiler prøver at compile c++ filer
 
 ******************************************************************************************************************************
+12/08/22
+Dag otte
+
+* Har måttet genoprette client da den ikke ville virke igen og det har taget mange forsøg
+* Har arbejdet med Threads som også har skabt en del problemer som dog heller ikke syntes at give en løsning
+* så har tids aspekt i andre wait skabt en del bøvl
+* Også har den sidste jeg nu prøver at kører stadig problemer
+******************************************************************************************************************************
