@@ -68,3 +68,11 @@ Dag otte
 * så har tids aspekt i andre wait skabt en del bøvl
 * Også har den sidste jeg nu prøver at kører stadig problemer
 ******************************************************************************************************************************
+15/08/22
+dag ni
+
+* mbed-os i en af udgaverne oplevede jeg "unknown-register-name-vfpcc-in-asm" som var umuligt at finde i koden, men fandt en i github som indtil ikke giver problemer
+* Fik koden frem til http delen til at virke, det vil sige tid og sensorer, men der er dog stadig lidt med at tiden ikke er på dansk tid
+* Prøvede forskellige librarien angående tcp og http men har ikke fået det til at virke endnu
+* Og så er det blevet temmelig varmet kan se på rasperry pi at temperatur er steget 5 grader pga den varme luft.
+******************************************************************************************************************************
