@@ -77,3 +77,6 @@ dag ni
 * Og så er det blevet temmelig varmet kan se på rasperry pi at temperatur er steget 5 grader pga den varme luft.
 ******************************************************************************************************************************
 16/08/22
+* Har fået client op at stå og har fået noget forbindelse
+* men der kommer mange mærkelige fejl som viser sig at være alt fra socket fejl til system fejl i mbedos
+* er dog kommet lidt nærmere på at få det til at virke
