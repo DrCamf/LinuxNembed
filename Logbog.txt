@@ -80,3 +80,10 @@ dag ni
 * Har fået client op at stå og har fået noget forbindelse
 * men der kommer mange mærkelige fejl som viser sig at være alt fra socket fejl til system fejl i mbedos
 * er dog kommet lidt nærmere på at få det til at virke
+******************************************************************************************************************************
+17/08/22
+* Lavet mange forsøg på at få stm32 kortet til at virke som client men ingen af dem virkede.
+* Skiftede over til rasperry pie som tog en del tid om at få sat op.
+* grovepi temperatur måleren gav også en del problemer men jeg tror måske jeg har fået en regnemåde til at virke
+* fik også skrevet lidt på dokumentation
+******************************************************************************************************************************
