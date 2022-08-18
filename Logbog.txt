@@ -67,6 +67,7 @@ Dag otte
 * Har arbejdet med Threads som også har skabt en del problemer som dog heller ikke syntes at give en løsning
 * så har tids aspekt i andre wait skabt en del bøvl
 * Også har den sidste jeg nu prøver at kører stadig problemer
+
 ******************************************************************************************************************************
 15/08/22
 dag ni
@@ -75,15 +76,30 @@ dag ni
 * Fik koden frem til http delen til at virke, det vil sige tid og sensorer, men der er dog stadig lidt med at tiden ikke er på dansk tid
 * Prøvede forskellige librarien angående tcp og http men har ikke fået det til at virke endnu
 * Og så er det blevet temmelig varmet kan se på rasperry pi at temperatur er steget 5 grader pga den varme luft.
+
 ******************************************************************************************************************************
 16/08/22
+dag ti
+
 * Har fået client op at stå og har fået noget forbindelse
 * men der kommer mange mærkelige fejl som viser sig at være alt fra socket fejl til system fejl i mbedos
 * er dog kommet lidt nærmere på at få det til at virke
+
 ******************************************************************************************************************************
 17/08/22
+dag 11
+
 * Lavet mange forsøg på at få stm32 kortet til at virke som client men ingen af dem virkede.
 * Skiftede over til rasperry pie som tog en del tid om at få sat op.
 * grovepi temperatur måleren gav også en del problemer men jeg tror måske jeg har fået en regnemåde til at virke
 * fik også skrevet lidt på dokumentation
+
+******************************************************************************************************************************
+18/08/22
+dag 12
+
+* Arbejdede videre med dokumentation
+* Fik aflæsningen på rasperry pi op at køre
+* Fik ordnet tid og fik den på dansk tid, dog med lidt hard kodening
+* Er begyndt på socket programming på rasperry pi, så skulle gerne få det op og stå
 ******************************************************************************************************************************
