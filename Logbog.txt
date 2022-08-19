@@ -103,3 +103,11 @@ dag 12
 * Fik ordnet tid og fik den på dansk tid, dog med lidt hard kodening
 * Er begyndt på socket programming på rasperry pi, så skulle gerne få det op og stå
 ******************************************************************************************************************************
+19/08/22
+dag 13
+
+* Fik lavet en ordentlig løsning på tid for sommer/normaltid
+* Afleveret dokumentation
+* Arbejdet og set på SOCKET programmering på Rasperry Pi
+
+******************************************************************************************************************************
